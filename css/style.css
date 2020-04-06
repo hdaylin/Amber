@@ -28,12 +28,18 @@ body{
 }
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6{
-	font-family: 'Muli', sans-serif;
+	/*font-family: 'Muli', sans-serif; */ 
+    font-family: 'Cinzel Decorative', cursive;
 	font-weight: 300;
 	margin-bottom: 0;
 	line-height: 1.35;
 	color: #fff;
 }
+
+.blocks{ 
+    font-family: 'Poiret One', cursive;
+}
+
 h1, .h1 {
 	font-size: 3.2rem;
 	font-weight: 600;
@@ -601,7 +607,7 @@ a:hover {
 	width: 100%;
 	text-align: center;
 }
-.curent-page-name-shadow {
+.curent-page-name-shadow { 
 	position: absolute;
 	top: 50%;
 	left: -100%;
@@ -609,7 +615,7 @@ a:hover {
 	text-align: center;
 	-webkit-transform: translateY(-50%);
           transform: translateY(-50%);
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Cinzel Decorative', cursive;
 	font-size: 22vw;
 	margin-top: 40px;
 	font-weight: 900;
@@ -634,7 +640,7 @@ a:hover {
 	text-align: center;
 	color: #fff;
 	overflow: hidden; 
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Poiret One', cursive;
 	font-size: 8vh;
 	font-weight: 700;
 	line-height: 1.05;
